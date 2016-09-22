@@ -1,0 +1,24 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naga-georgian/COMP2106-lab3.git"
+  },
+  "author": "Naga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naga-georgian/COMP2106-lab3/issues"
+  },
+  "homepage": "https://github.com/naga-georgian/COMP2106-lab3#readme",
+  "dependencies": {
+    "connect": "^3.5.0",
+    "nodemon": "^1.10.2"
+  }
+}
